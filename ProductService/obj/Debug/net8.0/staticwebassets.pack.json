@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\airpods.jpg",
+      "PackagePath": "staticwebassets\\images\\airpods.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\animals.jpg",
+      "PackagePath": "staticwebassets\\images\\animals.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\beauty.jpg",
+      "PackagePath": "staticwebassets\\images\\beauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\blush.jpg",
+      "PackagePath": "staticwebassets\\images\\blush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\cat food.jpg",
+      "PackagePath": "staticwebassets\\images\\cat food.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\clothes.jpg",
+      "PackagePath": "staticwebassets\\images\\clothes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\dress.jpg",
+      "PackagePath": "staticwebassets\\images\\dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\electronic.jpg",
+      "PackagePath": "staticwebassets\\images\\electronic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\iphone.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\lipstick.jpg",
+      "PackagePath": "staticwebassets\\images\\lipstick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\ordinateur.jpg",
+      "PackagePath": "staticwebassets\\images\\ordinateur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\samsung.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Desktop\\dote net\\ProductService\\wwwroot\\images\\soldes.jpg",
+      "PackagePath": "staticwebassets\\images\\soldes.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductService.props",
+      "PackagePath": "build\\ProductService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductService.props",
+      "PackagePath": "buildMultiTargeting\\ProductService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductService.props",
+      "PackagePath": "buildTransitive\\ProductService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

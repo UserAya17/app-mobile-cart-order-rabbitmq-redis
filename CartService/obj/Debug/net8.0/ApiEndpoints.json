@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "CartService.Controllers.CartController",
+    "Method": "GetCart",
+    "RelativePath": "api/cart/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartService.Controllers.CartController",
+    "Method": "AddProductToCart",
+    "RelativePath": "api/cart/add/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cartItem",
+        "Type": "CartService.Models.CartItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartService.Controllers.CartController",
+    "Method": "Checkout",
+    "RelativePath": "api/cart/checkout/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartService.Controllers.CartController",
+    "Method": "RemoveProductFromCart",
+    "RelativePath": "api/cart/remove/{userId}/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartService.Controllers.CartController",
+    "Method": "UpdateProductQuantity",
+    "RelativePath": "api/cart/update/{userId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cartItem",
+        "Type": "CartService.Models.CartItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
